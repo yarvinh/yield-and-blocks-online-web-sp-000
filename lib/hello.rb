@@ -6,8 +6,7 @@ def hello_t(names)
 counter += 1
 end
 names
-else
-  puts "Hey! No block was given!"
+
 
 
 end
