@@ -1,6 +1,6 @@
 def hello_t(names)
 yield(names)
-puts names
+ names
 
 end
 
