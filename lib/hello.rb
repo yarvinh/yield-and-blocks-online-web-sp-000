@@ -1,6 +1,6 @@
 def hello_t(names)
   counter = 0
-  loop do counter <= name.length -1
+  loop while counter <= name.length -1
  yield(names)
  names
 counter += 1
