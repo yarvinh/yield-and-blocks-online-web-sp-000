@@ -5,6 +5,7 @@ def hello_t(names)
 counter += 1
 end
 names
+ "Hey! No block was given!"
 
 end
 
